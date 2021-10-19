@@ -7,6 +7,7 @@
 ```
 Generate RGB and Hex color value
 Copy to clipboard
+Dynamic background and text color
 ```
 
 ### Screenshot
